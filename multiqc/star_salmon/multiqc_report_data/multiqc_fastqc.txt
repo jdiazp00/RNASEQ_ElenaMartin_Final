@@ -1,0 +1,17 @@
+Sample	Filename	File type	Encoding	Total Sequences	Total Bases	Sequences flagged as poor quality	Sequence length	%GC	total_deduplicated_percentage	avg_sequence_length	median_sequence_length	basic_statistics	per_base_sequence_quality	per_tile_sequence_quality	per_sequence_quality_scores	per_base_sequence_content	per_sequence_gc_content	per_base_n_content	sequence_length_distribution	sequence_duplication_levels	overrepresented_sequences	adapter_content
+1	1.gz	Conventional base calls	Sanger / Illumina 1.9	79624730.0	7.3 Gbp	0.0	35-100	50.0	42.90819289315701	91.87632289616555	100	pass	warn	fail	pass	fail	fail	warn	warn	fail	fail	pass
+10	10.gz	Conventional base calls	Sanger / Illumina 1.9	81706434.0	7.5 Gbp	0.0	35-100	52.0	38.42521334777097	92.3961831451364	100	pass	warn	fail	pass	fail	fail	warn	warn	fail	fail	pass
+11	11.gz	Conventional base calls	Sanger / Illumina 1.9	94549097.0	9.1 Gbp	0.0	35-100	52.0	43.01207295061328	96.39250625524218	100	pass	warn	fail	pass	fail	fail	pass	warn	fail	fail	pass
+12	12.gz	Conventional base calls	Sanger / Illumina 1.9	101486383.0	9.9 Gbp	0.0	35-100	52.0	47.90553886148725	97.83743860494073	100	pass	warn	fail	pass	fail	warn	pass	warn	fail	fail	pass
+13	13.gz	Conventional base calls	Sanger / Illumina 1.9	46505117.0	4.5 Gbp	0.0	35-100	51.0	54.195984606057976	97.29441132252178	100	pass	warn	fail	pass	fail	warn	pass	warn	warn	fail	pass
+14	14.gz	Conventional base calls	Sanger / Illumina 1.9	84917902.0	8.2 Gbp	0.0	35-100	52.0	44.26398593303786	96.2485904326746	100	pass	warn	fail	pass	fail	fail	pass	warn	fail	fail	pass
+15	15.gz	Conventional base calls	Sanger / Illumina 1.9	88323942.0	8.4 Gbp	0.0	35-100	53.0	39.44531158691299	95.72516314998713	100	pass	warn	fail	pass	fail	fail	pass	warn	fail	fail	pass
+16	16.gz	Conventional base calls	Sanger / Illumina 1.9	97221816.0	9.4 Gbp	0.0	35-100	52.0	47.97223534061401	97.28802899546744	100	pass	warn	fail	pass	fail	warn	pass	warn	fail	fail	pass
+2	2.gz	Conventional base calls	Sanger / Illumina 1.9	47442648.0	4.5 Gbp	0.0	35-100	52.0	50.79164294661083	94.69236927921898	100	pass	warn	fail	pass	fail	fail	warn	warn	warn	fail	pass
+3	3.gz	Conventional base calls	Sanger / Illumina 1.9	94639722.0	9.1 Gbp	0.0	35-100	52.0	46.50848811117315	95.9599710151304	100	pass	warn	fail	pass	fail	fail	pass	warn	fail	fail	pass
+4	4.gz	Conventional base calls	Sanger / Illumina 1.9	71267259.0	7 Gbp	0.0	35-100	52.0	52.86590932134553	97.9717721990683	100	pass	warn	fail	pass	fail	warn	pass	warn	warn	fail	pass
+5	5.gz	Conventional base calls	Sanger / Illumina 1.9	89214868.0	8.6 Gbp	0.0	35-100	52.0	48.26736513885394	96.72656145161814	100	pass	warn	fail	pass	fail	fail	pass	warn	fail	fail	pass
+6	6.gz	Conventional base calls	Sanger / Illumina 1.9	100010980.0	9.5 Gbp	0.0	35-100	52.0	42.977649596113125	95.28896597153633	100	pass	warn	fail	pass	fail	fail	pass	warn	fail	fail	pass
+7	7.gz	Conventional base calls	Sanger / Illumina 1.9	95668878.0	9.4 Gbp	0.0	35-100	50.0	49.45279936527532	98.18703819229489	100	pass	warn	fail	pass	fail	warn	pass	warn	fail	warn	pass
+8	8.gz	Conventional base calls	Sanger / Illumina 1.9	80529851.0	7.8 Gbp	0.0	35-100	51.0	47.15992115448074	96.86332458258242	100	pass	warn	fail	pass	fail	fail	pass	warn	fail	fail	pass
+9	9.gz	Conventional base calls	Sanger / Illumina 1.9	106262389.0	10.3 Gbp	0.0	35-100	52.0	41.05828109033969	97.0664408834249	100	pass	warn	fail	pass	fail	warn	pass	warn	fail	fail	pass

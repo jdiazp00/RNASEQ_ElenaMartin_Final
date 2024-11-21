@@ -1,0 +1,257 @@
+Module	Section	Sample Name	Source
+Picard	DuplicationMetrics	6	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/picard/markduplicates/6.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	8	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/picard/markduplicates/8.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	14	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/picard/markduplicates/14.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	3	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/picard/markduplicates/3.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	15	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/picard/markduplicates/15.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	2	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/picard/markduplicates/2.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	12	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/picard/markduplicates/12.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	13	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/picard/markduplicates/13.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	7	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/picard/markduplicates/7.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	10	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/picard/markduplicates/10.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	5	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/picard/markduplicates/5.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	1	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/picard/markduplicates/1.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	11	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/picard/markduplicates/11.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	16	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/picard/markduplicates/16.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	4	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/picard/markduplicates/4.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	9	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/picard/markduplicates/9.markdup.sorted.MarkDuplicates.metrics.txt
+QualiMap	rna_genome_results	8	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/qualimap/8/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	5	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/qualimap/5/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	13	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/qualimap/13/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	10	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/qualimap/10/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	16	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/qualimap/16/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	9	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/qualimap/9/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	3	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/qualimap/3/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	4	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/qualimap/4/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	12	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/qualimap/12/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	11	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/qualimap/11/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	7	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/qualimap/7/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	14	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/qualimap/14/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	15	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/qualimap/15/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	1	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/qualimap/1/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	2	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/qualimap/2/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	6	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/qualimap/6/rnaseq_qc_results.txt
+QualiMap	rna_coverage_histogram	8	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/qualimap/8/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	5	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/qualimap/5/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	13	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/qualimap/13/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	10	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/qualimap/10/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	16	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/qualimap/16/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	9	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/qualimap/9/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	3	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/qualimap/3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	4	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/qualimap/4/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	12	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/qualimap/12/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	11	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/qualimap/11/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	7	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/qualimap/7/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	14	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/qualimap/14/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	15	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/qualimap/15/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	1	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/qualimap/1/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	2	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/qualimap/2/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	6	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/qualimap/6/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+RSeQC	read_distribution	11	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/read_distribution/11.read_distribution.txt
+RSeQC	read_distribution	7	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/read_distribution/7.read_distribution.txt
+RSeQC	read_distribution	3	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/read_distribution/3.read_distribution.txt
+RSeQC	read_distribution	14	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/read_distribution/14.read_distribution.txt
+RSeQC	read_distribution	16	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/read_distribution/16.read_distribution.txt
+RSeQC	read_distribution	5	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/read_distribution/5.read_distribution.txt
+RSeQC	read_distribution	1	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/read_distribution/1.read_distribution.txt
+RSeQC	read_distribution	9	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/read_distribution/9.read_distribution.txt
+RSeQC	read_distribution	13	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/read_distribution/13.read_distribution.txt
+RSeQC	read_distribution	12	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/read_distribution/12.read_distribution.txt
+RSeQC	read_distribution	2	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/read_distribution/2.read_distribution.txt
+RSeQC	read_distribution	10	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/read_distribution/10.read_distribution.txt
+RSeQC	read_distribution	15	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/read_distribution/15.read_distribution.txt
+RSeQC	read_distribution	6	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/read_distribution/6.read_distribution.txt
+RSeQC	read_distribution	8	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/read_distribution/8.read_distribution.txt
+RSeQC	read_distribution	4	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/read_distribution/4.read_distribution.txt
+RSeQC	read_duplication	6	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/read_duplication/6.pos.DupRate.xls
+RSeQC	read_duplication	11	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/read_duplication/11.pos.DupRate.xls
+RSeQC	read_duplication	13	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/read_duplication/13.pos.DupRate.xls
+RSeQC	read_duplication	15	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/read_duplication/15.pos.DupRate.xls
+RSeQC	read_duplication	4	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/read_duplication/4.pos.DupRate.xls
+RSeQC	read_duplication	2	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/read_duplication/2.pos.DupRate.xls
+RSeQC	read_duplication	10	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/read_duplication/10.pos.DupRate.xls
+RSeQC	read_duplication	14	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/read_duplication/14.pos.DupRate.xls
+RSeQC	read_duplication	8	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/read_duplication/8.pos.DupRate.xls
+RSeQC	read_duplication	3	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/read_duplication/3.pos.DupRate.xls
+RSeQC	read_duplication	1	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/read_duplication/1.pos.DupRate.xls
+RSeQC	read_duplication	12	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/read_duplication/12.pos.DupRate.xls
+RSeQC	read_duplication	5	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/read_duplication/5.pos.DupRate.xls
+RSeQC	read_duplication	7	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/read_duplication/7.pos.DupRate.xls
+RSeQC	read_duplication	16	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/read_duplication/16.pos.DupRate.xls
+RSeQC	read_duplication	9	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/read_duplication/9.pos.DupRate.xls
+RSeQC	junction_annotation	8	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/junction_annotation/8.junction_annotation.log
+RSeQC	junction_annotation	14	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/junction_annotation/14.junction_annotation.log
+RSeQC	junction_annotation	13	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/junction_annotation/13.junction_annotation.log
+RSeQC	junction_annotation	5	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/junction_annotation/5.junction_annotation.log
+RSeQC	junction_annotation	15	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/junction_annotation/15.junction_annotation.log
+RSeQC	junction_annotation	3	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/junction_annotation/3.junction_annotation.log
+RSeQC	junction_annotation	9	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/junction_annotation/9.junction_annotation.log
+RSeQC	junction_annotation	16	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/junction_annotation/16.junction_annotation.log
+RSeQC	junction_annotation	7	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/junction_annotation/7.junction_annotation.log
+RSeQC	junction_annotation	2	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/junction_annotation/2.junction_annotation.log
+RSeQC	junction_annotation	6	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/junction_annotation/6.junction_annotation.log
+RSeQC	junction_annotation	12	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/junction_annotation/12.junction_annotation.log
+RSeQC	junction_annotation	11	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/junction_annotation/11.junction_annotation.log
+RSeQC	junction_annotation	1	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/junction_annotation/1.junction_annotation.log
+RSeQC	junction_annotation	10	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/junction_annotation/10.junction_annotation.log
+RSeQC	junction_annotation	4	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/junction_annotation/4.junction_annotation.log
+RSeQC	junction_saturation	6	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/junction_saturation/6.junctionSaturation_plot.r
+RSeQC	junction_saturation	7	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/junction_saturation/7.junctionSaturation_plot.r
+RSeQC	junction_saturation	2	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/junction_saturation/2.junctionSaturation_plot.r
+RSeQC	junction_saturation	13	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/junction_saturation/13.junctionSaturation_plot.r
+RSeQC	junction_saturation	15	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/junction_saturation/15.junctionSaturation_plot.r
+RSeQC	junction_saturation	4	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/junction_saturation/4.junctionSaturation_plot.r
+RSeQC	junction_saturation	14	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/junction_saturation/14.junctionSaturation_plot.r
+RSeQC	junction_saturation	9	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/junction_saturation/9.junctionSaturation_plot.r
+RSeQC	junction_saturation	16	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/junction_saturation/16.junctionSaturation_plot.r
+RSeQC	junction_saturation	10	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/junction_saturation/10.junctionSaturation_plot.r
+RSeQC	junction_saturation	5	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/junction_saturation/5.junctionSaturation_plot.r
+RSeQC	junction_saturation	12	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/junction_saturation/12.junctionSaturation_plot.r
+RSeQC	junction_saturation	8	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/junction_saturation/8.junctionSaturation_plot.r
+RSeQC	junction_saturation	11	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/junction_saturation/11.junctionSaturation_plot.r
+RSeQC	junction_saturation	3	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/junction_saturation/3.junctionSaturation_plot.r
+RSeQC	junction_saturation	1	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/junction_saturation/1.junctionSaturation_plot.r
+RSeQC	infer_experiment	5	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/infer_experiment/5.infer_experiment.txt
+RSeQC	infer_experiment	8	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/infer_experiment/8.infer_experiment.txt
+RSeQC	infer_experiment	7	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/infer_experiment/7.infer_experiment.txt
+RSeQC	infer_experiment	12	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/infer_experiment/12.infer_experiment.txt
+RSeQC	infer_experiment	11	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/infer_experiment/11.infer_experiment.txt
+RSeQC	infer_experiment	13	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/infer_experiment/13.infer_experiment.txt
+RSeQC	infer_experiment	9	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/infer_experiment/9.infer_experiment.txt
+RSeQC	infer_experiment	14	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/infer_experiment/14.infer_experiment.txt
+RSeQC	infer_experiment	2	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/infer_experiment/2.infer_experiment.txt
+RSeQC	infer_experiment	6	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/infer_experiment/6.infer_experiment.txt
+RSeQC	infer_experiment	16	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/infer_experiment/16.infer_experiment.txt
+RSeQC	infer_experiment	10	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/infer_experiment/10.infer_experiment.txt
+RSeQC	infer_experiment	3	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/infer_experiment/3.infer_experiment.txt
+RSeQC	infer_experiment	1	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/infer_experiment/1.infer_experiment.txt
+RSeQC	infer_experiment	4	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/infer_experiment/4.infer_experiment.txt
+RSeQC	infer_experiment	15	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/infer_experiment/15.infer_experiment.txt
+RSeQC	bam_stat	12	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/bam_stat/12.bam_stat.txt
+RSeQC	bam_stat	16	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/bam_stat/16.bam_stat.txt
+RSeQC	bam_stat	8	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/bam_stat/8.bam_stat.txt
+RSeQC	bam_stat	2	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/bam_stat/2.bam_stat.txt
+RSeQC	bam_stat	15	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/bam_stat/15.bam_stat.txt
+RSeQC	bam_stat	11	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/bam_stat/11.bam_stat.txt
+RSeQC	bam_stat	14	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/bam_stat/14.bam_stat.txt
+RSeQC	bam_stat	5	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/bam_stat/5.bam_stat.txt
+RSeQC	bam_stat	9	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/bam_stat/9.bam_stat.txt
+RSeQC	bam_stat	10	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/bam_stat/10.bam_stat.txt
+RSeQC	bam_stat	3	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/bam_stat/3.bam_stat.txt
+RSeQC	bam_stat	13	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/bam_stat/13.bam_stat.txt
+RSeQC	bam_stat	7	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/bam_stat/7.bam_stat.txt
+RSeQC	bam_stat	1	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/bam_stat/1.bam_stat.txt
+RSeQC	bam_stat	6	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/bam_stat/6.bam_stat.txt
+RSeQC	bam_stat	4	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/rseqc/bam_stat/4.bam_stat.txt
+Samtools	stats	3	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/stats/3.markdup.sorted.bam.stats
+Samtools	stats	2	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/stats/2.markdup.sorted.bam.stats
+Samtools	stats	10	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/stats/10.markdup.sorted.bam.stats
+Samtools	stats	6	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/stats/6.markdup.sorted.bam.stats
+Samtools	stats	13	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/stats/13.markdup.sorted.bam.stats
+Samtools	stats	8	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/stats/8.markdup.sorted.bam.stats
+Samtools	stats	1	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/stats/1.markdup.sorted.bam.stats
+Samtools	stats	12	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/stats/12.markdup.sorted.bam.stats
+Samtools	stats	16	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/stats/16.markdup.sorted.bam.stats
+Samtools	stats	14	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/stats/14.markdup.sorted.bam.stats
+Samtools	stats	5	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/stats/5.markdup.sorted.bam.stats
+Samtools	stats	7	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/stats/7.markdup.sorted.bam.stats
+Samtools	stats	15	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/stats/15.markdup.sorted.bam.stats
+Samtools	stats	4	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/stats/4.markdup.sorted.bam.stats
+Samtools	stats	11	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/stats/11.markdup.sorted.bam.stats
+Samtools	stats	9	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/stats/9.markdup.sorted.bam.stats
+Samtools	flagstat	5	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/flagstat/5.markdup.sorted.bam.flagstat
+Samtools	flagstat	16	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/flagstat/16.markdup.sorted.bam.flagstat
+Samtools	flagstat	1	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/flagstat/1.markdup.sorted.bam.flagstat
+Samtools	flagstat	11	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/flagstat/11.markdup.sorted.bam.flagstat
+Samtools	flagstat	9	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/flagstat/9.markdup.sorted.bam.flagstat
+Samtools	flagstat	15	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/flagstat/15.markdup.sorted.bam.flagstat
+Samtools	flagstat	6	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/flagstat/6.markdup.sorted.bam.flagstat
+Samtools	flagstat	10	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/flagstat/10.markdup.sorted.bam.flagstat
+Samtools	flagstat	13	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/flagstat/13.markdup.sorted.bam.flagstat
+Samtools	flagstat	7	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/flagstat/7.markdup.sorted.bam.flagstat
+Samtools	flagstat	4	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/flagstat/4.markdup.sorted.bam.flagstat
+Samtools	flagstat	14	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/flagstat/14.markdup.sorted.bam.flagstat
+Samtools	flagstat	3	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/flagstat/3.markdup.sorted.bam.flagstat
+Samtools	flagstat	8	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/flagstat/8.markdup.sorted.bam.flagstat
+Samtools	flagstat	12	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/flagstat/12.markdup.sorted.bam.flagstat
+Samtools	flagstat	2	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/flagstat/2.markdup.sorted.bam.flagstat
+Samtools	idxstats	14	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/idxstats/14.markdup.sorted.bam.idxstats
+Samtools	idxstats	4	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/idxstats/4.markdup.sorted.bam.idxstats
+Samtools	idxstats	16	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/idxstats/16.markdup.sorted.bam.idxstats
+Samtools	idxstats	2	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/idxstats/2.markdup.sorted.bam.idxstats
+Samtools	idxstats	1	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/idxstats/1.markdup.sorted.bam.idxstats
+Samtools	idxstats	6	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/idxstats/6.markdup.sorted.bam.idxstats
+Samtools	idxstats	15	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/idxstats/15.markdup.sorted.bam.idxstats
+Samtools	idxstats	9	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/idxstats/9.markdup.sorted.bam.idxstats
+Samtools	idxstats	11	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/idxstats/11.markdup.sorted.bam.idxstats
+Samtools	idxstats	3	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/idxstats/3.markdup.sorted.bam.idxstats
+Samtools	idxstats	13	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/idxstats/13.markdup.sorted.bam.idxstats
+Samtools	idxstats	12	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/idxstats/12.markdup.sorted.bam.idxstats
+Samtools	idxstats	8	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/idxstats/8.markdup.sorted.bam.idxstats
+Samtools	idxstats	5	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/idxstats/5.markdup.sorted.bam.idxstats
+Samtools	idxstats	10	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/idxstats/10.markdup.sorted.bam.idxstats
+Samtools	idxstats	7	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/samtools/idxstats/7.markdup.sorted.bam.idxstats
+STAR	SummaryLog	1	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/star/1.Log.final.out
+STAR	SummaryLog	11	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/star/11.Log.final.out
+STAR	SummaryLog	2	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/star/2.Log.final.out
+STAR	SummaryLog	9	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/star/9.Log.final.out
+STAR	SummaryLog	12	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/star/12.Log.final.out
+STAR	SummaryLog	10	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/star/10.Log.final.out
+STAR	SummaryLog	5	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/star/5.Log.final.out
+STAR	SummaryLog	3	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/star/3.Log.final.out
+STAR	SummaryLog	4	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/star/4.Log.final.out
+STAR	SummaryLog	8	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/star/8.Log.final.out
+STAR	SummaryLog	14	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/star/14.Log.final.out
+STAR	SummaryLog	16	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/star/16.Log.final.out
+STAR	SummaryLog	15	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/star/15.Log.final.out
+STAR	SummaryLog	6	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/star/6.Log.final.out
+STAR	SummaryLog	7	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/star/7.Log.final.out
+STAR	SummaryLog	13	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/star/13.Log.final.out
+FastQC (raw)	all_sections	12	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/fastqc/raw/12_fastqc.zip
+FastQC (raw)	all_sections	10	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/fastqc/raw/10_fastqc.zip
+FastQC (raw)	all_sections	16	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/fastqc/raw/16_fastqc.zip
+FastQC (raw)	all_sections	14	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/fastqc/raw/14_fastqc.zip
+FastQC (raw)	all_sections	11	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/fastqc/raw/11_fastqc.zip
+FastQC (raw)	all_sections	3	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/fastqc/raw/3_fastqc.zip
+FastQC (raw)	all_sections	6	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/fastqc/raw/6_fastqc.zip
+FastQC (raw)	all_sections	5	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/fastqc/raw/5_fastqc.zip
+FastQC (raw)	all_sections	8	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/fastqc/raw/8_fastqc.zip
+FastQC (raw)	all_sections	15	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/fastqc/raw/15_fastqc.zip
+FastQC (raw)	all_sections	13	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/fastqc/raw/13_fastqc.zip
+FastQC (raw)	all_sections	7	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/fastqc/raw/7_fastqc.zip
+FastQC (raw)	all_sections	9	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/fastqc/raw/9_fastqc.zip
+FastQC (raw)	all_sections	2	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/fastqc/raw/2_fastqc.zip
+FastQC (raw)	all_sections	1	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/fastqc/raw/1_fastqc.zip
+FastQC (raw)	all_sections	4	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/fastqc/raw/4_fastqc.zip
+Cutadapt	all_sections	13	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/trim_log/13.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	3	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/trim_log/3.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	16	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/trim_log/16.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	1	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/trim_log/1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	8	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/trim_log/8.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	2	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/trim_log/2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	5	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/trim_log/5.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	7	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/trim_log/7.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	6	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/trim_log/6.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	4	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/trim_log/4.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	14	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/trim_log/14.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	15	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/trim_log/15.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	10	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/trim_log/10.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	11	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/trim_log/11.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	9	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/trim_log/9.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	12	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/trim_log/12.fastq.gz_trimming_report.txt
+FastQC (trimmed)	all_sections	3	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/fastqc/trim/3_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	1	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/fastqc/trim/1_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	8	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/fastqc/trim/8_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	11	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/fastqc/trim/11_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	2	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/fastqc/trim/2_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	9	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/fastqc/trim/9_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	5	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/fastqc/trim/5_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	7	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/fastqc/trim/7_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	12	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/fastqc/trim/12_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	4	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/fastqc/trim/4_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	15	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/fastqc/trim/15_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	10	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/fastqc/trim/10_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	6	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/fastqc/trim/6_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	14	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/fastqc/trim/14_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	16	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/fastqc/trim/16_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	13	/home/jaime/work/eb/ef08eb7164032dcc076a6507657b4b/fastqc/trim/13_trimmed_fastqc.zip
