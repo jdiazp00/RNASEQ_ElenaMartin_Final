@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>PCA y mas</title>
+<title>QC Secundario del RNASEQ</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -79,7 +79,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">PCA y mas</h1>
+<h1 class="title">QC Secundario del RNASEQ</h1>
 </div>
 
 
@@ -238,7 +238,7 @@ Adjuntando el paquete: 'Biobase'</code></pre>
 </div>
 <p><strong>DATOS</strong></p>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb28"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb28-1"><a href="#cb28-1" aria-hidden="true" tabindex="-1"></a>reads_genes <span class="ot">&lt;-</span> <span class="fu">read_tsv</span>(<span class="st">"/home/jaime/Escritorio/Resultados_UCA-GT/S-11-2024_RNASeq_ElenaMartin/RNASEQ_ElenaMartin/star_salmon/salmon.merged.gene_counts_scaled.tsv"</span>) <span class="sc">%&gt;%</span> </span>
+<div class="sourceCode cell-code" id="cb28"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb28-1"><a href="#cb28-1" aria-hidden="true" tabindex="-1"></a>reads_genes <span class="ot">&lt;-</span> <span class="fu">read_tsv</span>(<span class="st">"/home/jaime/Escritorio/Resultados_UCA-GT/S-11-2024_RNASeq_ElenaMartin/RNASEQ_ElenaMartin/star_salmon/salmon.merged.gene_counts_length_scaled.tsv"</span>) <span class="sc">%&gt;%</span> </span>
 <span id="cb28-2"><a href="#cb28-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">rename</span>(<span class="st">"C2h_1"</span> <span class="ot">=</span> X1) <span class="sc">%&gt;%</span></span>
 <span id="cb28-3"><a href="#cb28-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">rename</span>(<span class="st">"C2h_2"</span> <span class="ot">=</span> X2) <span class="sc">%&gt;%</span> </span>
 <span id="cb28-4"><a href="#cb28-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">rename</span>(<span class="st">"C2h_3"</span> <span class="ot">=</span> X3) <span class="sc">%&gt;%</span> </span>
@@ -314,7 +314,7 @@ chr (3): Transcrip_ID, Gene_ID, Gene_Name
 <span id="cb35-7"><a href="#cb35-7" aria-hidden="true" tabindex="-1"></a>                 <span class="st">"entrezgene_id"</span>,<span class="st">"gene_biotype"</span>,<span class="st">"transcript_biotype"</span>),</span>
 <span id="cb35-8"><a href="#cb35-8" aria-hidden="true" tabindex="-1"></a>  <span class="at">mart =</span> mart)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-<p>Quality Control from the primary analysis could be found here:</p>
+<p>El QC del análisis primario puede encontrarse a continuación:</p>
 <p><a href="https://jdiazp00.github.io/RNASEQ_ElenaMartin_Final/multiqc_report.html" class="uri">https://jdiazp00.github.io/RNASEQ_ElenaMartin_Final/multiqc_report.html</a></p>
 <section id="transcript-level" class="level1">
 <h1><strong>Transcript Level</strong></h1>
@@ -435,28 +435,36 @@ design formula are characters, converting to factors</code></pre>
 <pre><code>Square root transformation
 Wisconsin double standardization
 Run 0 stress 0.1486428 
-Run 1 stress 0.1510672 
-Run 2 stress 0.1930743 
-Run 3 stress 0.1547345 
-Run 4 stress 0.1761459 
-Run 5 stress 0.1510673 
-Run 6 stress 0.1839065 
-Run 7 stress 0.1777146 
-Run 8 stress 0.3592579 
-Run 9 stress 0.2085777 
-Run 10 stress 0.1547345 
-Run 11 stress 0.1978363 
-Run 12 stress 0.1693745 
-Run 13 stress 0.1486428 
-... Procrustes: rmse 2.52763e-05  max resid 5.491199e-05 
+Run 1 stress 0.1693741 
+Run 2 stress 0.2069403 
+Run 3 stress 0.1698455 
+Run 4 stress 0.1606163 
+Run 5 stress 0.1547345 
+Run 6 stress 0.1547345 
+Run 7 stress 0.1693741 
+Run 8 stress 0.1486428 
+... Procrustes: rmse 2.340761e-05  max resid 4.97308e-05 
 ... Similar to previous best
-Run 14 stress 0.1866155 
-Run 15 stress 0.1839065 
-Run 16 stress 0.2021803 
-Run 17 stress 0.1976577 
-Run 18 stress 0.1767339 
-Run 19 stress 0.1547345 
-Run 20 stress 0.1610451 
+Run 9 stress 0.1606163 
+Run 10 stress 0.1767338 
+Run 11 stress 0.1486428 
+... New best solution
+... Procrustes: rmse 6.303731e-06  max resid 1.202454e-05 
+... Similar to previous best
+Run 12 stress 0.1486428 
+... Procrustes: rmse 3.528255e-06  max resid 9.318742e-06 
+... Similar to previous best
+Run 13 stress 0.1744149 
+Run 14 stress 0.1837695 
+Run 15 stress 0.175976 
+Run 16 stress 0.1547345 
+Run 17 stress 0.212767 
+Run 18 stress 0.1510673 
+Run 19 stress 0.1486428 
+... New best solution
+... Procrustes: rmse 1.268292e-05  max resid 2.545902e-05 
+... Similar to previous best
+Run 20 stress 0.1510672 
 *** Best solution repeated 1 times</code></pre>
 </div>
 </div>
@@ -696,38 +704,38 @@ design formula are characters, converting to factors</code></pre>
 <div class="cell-output cell-output-stdout">
 <pre><code>Square root transformation
 Wisconsin double standardization
-Run 0 stress 0.1519428 
-Run 1 stress 0.1523052 
-... Procrustes: rmse 0.1412944  max resid 0.3486932 
-Run 2 stress 0.164157 
-Run 3 stress 0.1519428 
+Run 0 stress 0.1506497 
+Run 1 stress 0.1547228 
+Run 2 stress 0.2036671 
+Run 3 stress 0.1506497 
 ... New best solution
-... Procrustes: rmse 3.195933e-05  max resid 9.221148e-05 
+... Procrustes: rmse 1.690942e-05  max resid 3.058963e-05 
 ... Similar to previous best
-Run 4 stress 0.1523052 
-... Procrustes: rmse 0.1412897  max resid 0.3486681 
-Run 5 stress 0.1907956 
-Run 6 stress 0.1828607 
-Run 7 stress 0.1523052 
-... Procrustes: rmse 0.1412889  max resid 0.3486712 
-Run 8 stress 0.1944537 
-Run 9 stress 0.1523052 
-... Procrustes: rmse 0.14129  max resid 0.3486755 
-Run 10 stress 0.1508714 
-... New best solution
-... Procrustes: rmse 0.06063159  max resid 0.2124008 
-Run 11 stress 0.1948191 
-Run 12 stress 0.1556716 
-Run 13 stress 0.1828607 
-Run 14 stress 0.2171197 
-Run 15 stress 0.1948192 
-Run 16 stress 0.1523052 
-Run 17 stress 0.1519428 
-Run 18 stress 0.195795 
-Run 19 stress 0.1523052 
-Run 20 stress 0.195795 
-*** Best solution was not repeated -- monoMDS stopping criteria:
-    20: stress ratio &gt; sratmax</code></pre>
+Run 4 stress 0.1506497 
+... Procrustes: rmse 5.230638e-05  max resid 0.0001017412 
+... Similar to previous best
+Run 5 stress 0.1547228 
+Run 6 stress 0.1547228 
+Run 7 stress 0.1913581 
+Run 8 stress 0.1833996 
+Run 9 stress 0.1506497 
+... Procrustes: rmse 1.978912e-05  max resid 6.308966e-05 
+... Similar to previous best
+Run 10 stress 0.1506971 
+... Procrustes: rmse 0.06105147  max resid 0.2175244 
+Run 11 stress 0.1541259 
+Run 12 stress 0.1547228 
+Run 13 stress 0.1642491 
+Run 14 stress 0.164249 
+Run 15 stress 0.2592136 
+Run 16 stress 0.1911224 
+Run 17 stress 0.2796412 
+Run 18 stress 0.1541259 
+Run 19 stress 0.191293 
+Run 20 stress 0.1506497 
+... Procrustes: rmse 0.0001108924  max resid 0.0002321802 
+... Similar to previous best
+*** Best solution repeated 4 times</code></pre>
 </div>
 </div>
 <div class="cell">
@@ -773,15 +781,15 @@ Run 20 stress 0.195795
 <span id="cb96-12"><a href="#cb96-12" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_light</span>() <span class="sc">+</span> </span>
 <span id="cb96-13"><a href="#cb96-13" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(<span class="at">title =</span> <span class="st">"Volcano Plot Grupo_X_vs_P"</span>) </span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stderr">
-<pre><code>Warning: Removed 3 rows containing missing values or values outside the scale range
+<pre><code>Warning: Removed 739 rows containing missing values or values outside the scale range
 (`geom_point()`).</code></pre>
 </div>
 <div class="cell-output cell-output-stderr">
-<pre><code>Warning: Removed 59177 rows containing missing values or values outside the scale range
+<pre><code>Warning: Removed 58726 rows containing missing values or values outside the scale range
 (`geom_text_repel()`).</code></pre>
 </div>
 <div class="cell-output cell-output-stderr">
-<pre><code>Warning: ggrepel: 2947 unlabeled data points (too many overlaps). Consider
+<pre><code>Warning: ggrepel: 3418 unlabeled data points (too many overlaps). Consider
 increasing max.overlaps</code></pre>
 </div>
 <div class="cell-output-display">
@@ -808,15 +816,15 @@ increasing max.overlaps</code></pre>
 <span id="cb100-13"><a href="#cb100-13" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_light</span>() <span class="sc">+</span> </span>
 <span id="cb100-14"><a href="#cb100-14" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(<span class="at">title =</span> <span class="st">"MA Plot Grupo_X_vs_P"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stderr">
-<pre><code>Warning: Removed 3 rows containing missing values or values outside the scale range
+<pre><code>Warning: Removed 739 rows containing missing values or values outside the scale range
 (`geom_point()`).</code></pre>
 </div>
 <div class="cell-output cell-output-stderr">
-<pre><code>Warning: Removed 59177 rows containing missing values or values outside the scale range
+<pre><code>Warning: Removed 58726 rows containing missing values or values outside the scale range
 (`geom_text_repel()`).</code></pre>
 </div>
 <div class="cell-output cell-output-stderr">
-<pre><code>Warning: ggrepel: 2966 unlabeled data points (too many overlaps). Consider
+<pre><code>Warning: ggrepel: 3435 unlabeled data points (too many overlaps). Consider
 increasing max.overlaps</code></pre>
 </div>
 <div class="cell-output-display">
